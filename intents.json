@@ -25,16 +25,16 @@
   "responses": ["Nao existe melhor tema para o TCC, porem voce pode achar propostas interessantes na aba da disciplina CC7411 em Propostas Temas TCC"]
   },
   { "tag": "Ajuda_00",
-  "patterns":["Como obtenho ajuda em relacao ao desenvolvimento do meu TCC"],
+  "patterns":["Como obtenho ajuda em relacao ao desenvolvimento do meu TCC","Ajuda Tcc"],
   "responses": ["Qual seria esse tipo de ajuda? Normas abnt, professor orientador?"]
   },
   { "tag": "Ajuda_01",
   "patterns":["Gostaria de ajuda para escrever nas normas ABNT", "escrita na norma ABNT", "Duvidas gerais"],
-  "responses": ["Você pode procurar ajuda para escrever nas normas ABNT na aba da disciplina CC7411 em Modelos Exemplos Refêrencias "]
+  "responses": ["Voce pode procurar ajuda para escrever nas normas ABNT na aba da disciplina CC7411 em Modelos Exemplos Referencias "]
   },
   { "tag": "Ajuda_02",
   "patterns":["Qual é a melhor forma de alinhamento com o professor orientador", "Professor orientador"],
-  "responses": ["A melhor forma de fazer o alinhamento entre seu grupo e o professor orientador é realizar reuniões semanais"]
+  "responses": ["A melhor forma de fazer o alinhamento entre seu grupo e o professor orientador eh realizar reunioes semanais, sobre o progresso do seu trabalho"]
   },
   { "tag": "Ajuda_03",
   "patterns":["Como obtenho ajuda em relacao ao desenvolvimento do meu TCC"],
@@ -42,7 +42,7 @@
   },
   { "tag": "data_banca",
   "patterns":["Quando sera a banca","A banca será realizada em que dia?", "data", "banca"],
-  "responses": ["no dia 19 de junho mas vale lembrar que você precisa enviar seu arquivo PDF contendo o TCC até o dia 05 de junho"]
+  "responses": ["no dia 19 de junho mas vale lembrar que você precisa enviar seu arquivo PDF contendo o TCC ate o dia 05 de junho"]
   }
   
 

@@ -9,7 +9,7 @@ myChatBot.createModel()
 
 
 
-print("Bem vindo ao Chatbot")
+print("Bem vindo ao chatbot TiraDuvidaTCC, qual a sua duvida?")
 
 
 pergunta = input("como posso te ajudar?")
