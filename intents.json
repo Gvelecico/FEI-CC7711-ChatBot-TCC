@@ -25,7 +25,7 @@
   "responses": ["Nao existe melhor tema para o TCC, porem voce pode achar propostas interessantes na aba da disciplina CC7411 em Propostas Temas TCC"]
   },
   { "tag": "Ajuda_00",
-  "patterns":["Como obtenho ajuda em relacao ao desenvolvimento do meu TCC","Ajuda Tcc"],
+  "patterns":["Como obtenho ajuda em relacao ao desenvolvimento do meu TCC","Ajuda sobre o Tcc"],
   "responses": ["Qual seria esse tipo de ajuda? Normas abnt, professor orientador?"]
   },
   { "tag": "Ajuda_01",
